@@ -1,1 +1,1 @@
-https://asiacup2022.netlify.app/ipl
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099820/hd_akamai_iosmob_avc_hin_ipl05/hdntl=exp=1680527624~acl=/*~id=c653be7d-08b6-4713-9a67-e02699416382~data=hdntl~hmac=cfa6cb49a2726002b34e25d2f4d36f749e6b218bbc011959cc5a3936a51d147a/master_1080p.m3u8
